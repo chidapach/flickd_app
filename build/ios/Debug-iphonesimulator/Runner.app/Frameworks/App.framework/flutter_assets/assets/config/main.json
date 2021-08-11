@@ -1,0 +1,5 @@
+{
+    "API_KEY": "https://api.themoviedb.org/3/movie/550?api_key={api_key}&callback=test",
+    "BASE_API_KEY": "https://developers.themoviedb.org/3",
+    "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"
+}
